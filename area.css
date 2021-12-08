@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: url("https://cdn.imgbin.com/14/10/20/imgbin-triangle-geometry-pattern-color-triangle-red-yellow-and-blue-triangles-illustration-iDmWqZJqLzBjgBkQEUtyh2P18.jpg");
+    background-color: lightgray;
 }
 .container{
     display: flex;
@@ -10,13 +10,13 @@ body{
     font-size: 18px;
 }
 input{
-    border: 5px solid rgb(211, 162, 184);
+    border: 2px solid rgb(211, 162, 184);
     margin: 1rem;
     padding: 2rem;
     background-color: rgb(200, 209, 209);
 }
 button{
-    border: 5px solid rgb(221, 224, 21)   ;
+    border: 2px solid rgb(221, 224, 21)   ;
     margin: 6 rem;
     padding: 5 rem;
     width: 100vw;

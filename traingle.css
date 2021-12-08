@@ -1,14 +1,12 @@
 
 .container{
-    display: flex;
-    flex-direction:column ;
-    width: 100vw;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:inline-table;
+    
     font-size: 18px;
 }
 body{
     text-align: center;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd1KJXR2cJbHYVuqp0CcOxAENkcBbWhGiFJQ&usqp=CAU");
+    background-color: lemonchiffon;
 }
 
 input{
@@ -19,7 +17,7 @@ input{
     font-size:  15px;;
 }
 button{
-    border: 4px solid rgb(221, 224, 21)   ;
+    border: 2 px solid rgb(221, 224, 21)   ;
     margin: 6 rem;
     padding: 5 rem;
     width: 100vw;
