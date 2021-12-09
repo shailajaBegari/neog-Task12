@@ -1,10 +1,5 @@
 
 
-
-
-
-
-
 .container{
     /* display: flex; */
     display: inline-block;
@@ -15,15 +10,15 @@
 }
 input{
     text-align: center;
-    padding: 2rem;
+    padding: 1rem;
     margin: 2rem;
-    border: 2px solid rgb(46, 10, 177);
+    border: 2px solid rgb(14, 13, 19);
 }
 body{
     text-align: center;
     background-color: bisque;
 }
 button{
-    padding: 2rem;
+    padding: 1rem;
     margin: 2rem;
 }
