@@ -1,4 +1,4 @@
-const quizeForm=document.querySelectorAll(".quize-form");
+const quizeForm=document.querySelector(".quize-form");
 const submitAnserButton=document.querySelector("#submit-ans-btn");
 const outputE1=document.querySelector("#output");
 

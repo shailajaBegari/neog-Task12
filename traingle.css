@@ -1,28 +1,26 @@
 
+
+
+
 .container{
-    display:inline-table;
-    
+    /* display: flex; */
+    display: inline-block;
+    flex-direction:column ;
+    width: 25vw;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
+}
+input{
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem;
+    border: 2px solid rgb(46, 10, 177);
 }
 body{
     text-align: center;
-    background-color: lemonchiffon;
-}
-
-input{
-    border: 2px solid rgb(211, 162, 184);
-    margin: 1rem;
-    padding: 2rem;
-    background-color: rgb(200, 209, 209);
-    font-size:  15px;;
+    background-color: bisque;
 }
 button{
-    border: 2 px solid rgb(221, 224, 21)   ;
-    margin: 6 rem;
-    padding: 5 rem;
-    width: 100vw;
-    height: 5vw;
-}
-div{
     padding: 2rem;
+    margin: 2rem;
 }
