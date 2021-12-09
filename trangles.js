@@ -16,7 +16,7 @@ function isTrangle(){
     // console.log(sumOfAngles)
     if(sumOfAngles===180){
         // console.log("the angle form a triangle");
-        outputE1.innerText="the angle form a triangle";
+        outputE1.innerText="👏 The angle form a triangle 👏 " ;
     }
     else{
         // console.log("oh the angel doesn't form a triangle");

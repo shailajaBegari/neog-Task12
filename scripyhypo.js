@@ -17,6 +17,7 @@ function calculateHypothnous(){
     const lengthOfHypothnious=Math.sqrt(sumOfSquares);
     outputE1.innerText="the sum of square of hypothnious is,  " +   
     lengthOfHypothnious;
+    outputE1.style.color="yellow";
 }
 
 
